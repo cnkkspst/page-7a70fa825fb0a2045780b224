@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b9f4efa5125ce2ee4e260a4e",
+  "owner": "cnkkspst",
+  "repo": "page-7a70fa825fb0a2045780b224",
+  "title": "光速云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7a70fa825fb0a2045780b224",
+      "a": "光速云",
+      "b": "机场官网线路发布页",
+      "entity": "光速云",
+      "brand": "光速云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "17c2cd0f7e5405dec0a9ada964c883734953b8c80e56fb5804ae28fd22f098ec",
+      "content": {
+        "primary_entity": "光速云",
+        "keyword1": "光速云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择客户端：Windows 用 Clash Verge，macOS 用 ClashX Pro，Android 用 Clash Meta for Android，iOS 用 Shadowrocket。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "访问光速云客户端地址，下载对应版本，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用光速云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，月付最低 ¥15，按年付可享优惠价。旗舰版每月 300GB 流量、支持 5 台设备并配备 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备，适合小型团队协作。所有套餐均支持流媒体解锁，按设备选择对应客户端导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15，提供 100GB 流量、3 台设备同时在线；旗舰版月付 ¥35，300GB 流量、5 台设备，含 IPLC 专线；团队版月付 ¥85，1000GB 流量、20 台设备，适合团队。按年付分别 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。家中手机、电脑、平板合计一般 3 至 5 台，旗舰版较合适；若需分享给同事或家庭成员，团队版更宽裕。",
+          "AI_FAQ_ANSWER_3": "光速云提供 Windows、macOS、Android、iOS 客户端。Windows 推荐 Clash Verge，macOS 推荐 ClashX Pro，Android 推荐 Clash Meta for Android，iOS 推荐 Shadowrocket。具体版本可参考客户端文档。",
+          "AI_FAQ_ANSWER_4": "团队版支持企业定制路由，可配置专属节点策略；同时提供专属客户经理服务。若需多设备、高流量与优先支持，团队版是更省心的选择。",
+          "AI_FAQ_ANSWER_5": "按年付比月付节省更多，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。如果确定长期使用，选年付更划算；不确定可先月付试用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "光速云三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_3": "不同系统该用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更划算？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与使用周期挑选套餐，配置好订阅即可开始。",
+          "AI_FEATURES_TITLE": "选择光速云的理由",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB，旗舰版 ¥35/月含 300GB 并带 IPLC 专线，团队版 ¥85/月含 1000GB。按年付价格更低。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，覆盖手机、电脑与平板等常用终端。",
+          "AI_FEATURE_TEXT_3": "支持 Clash、Shadowrocket 等客户端导入订阅，按系统选择对应版本即可完成配置。",
+          "AI_FEATURE_TITLE_1": "三档套餐可选",
+          "AI_FEATURE_TITLE_2": "多设备同时在线",
+          "AI_FEATURE_TITLE_3": "主流客户端支持",
+          "AI_GUIDE_INTRO": "三步完成光速云订阅配置，从选择套餐到导入客户端。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "光速云提供基础版、旗舰版与团队版三档海外加速套餐，月付低至 ¥15，支持多设备同时在线、流媒体解锁与专线优化。按设备数量与流量需求挑选套餐，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "光速云，稳定加速每一台设备",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，按年付更省",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版兼顾性能与设备数，团队版提供大流量与专属服务。按年付可享优惠价，长期使用更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量和同时在线设备数选择基础版、旗舰版或团队版，月付或年付均可。",
+          "AI_STEP_TEXT_2": "确认自己的操作系统与设备数量，查看对应客户端与套餐的设备限制要求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，配置完成后即可正常使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "光速云海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "agixuis.cn",
+    "host": "agixuis.cn"
+  },
+  "file_hashes": {
+    "index.html": "048d8065582e31d7c160c4d234e40c0d6f7d97402feef40759ac9f109251106a",
+    "sitemap.xml": "f3172f4e21f6ed1ae088326c21b1228473e5ee9944a9cd1f105718e0b85898f6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "519815eb02b8c57760c78198e3d74baeb0d9f508f44392d8f5d40226427f53fd",
+    "robots.txt": "2e2b2f4b4bdccc4e8709b12ff091b025bc01daa5ea6431b9868c77efdc09f4d4",
+    "dd6b37814f39f6e25dda3943dd988615.txt": "38d4c66a3f782110c1f4d25b8c6e7fa80b07c1f73222ce5a3e0349dddf76774f"
+  },
+  "revision": "351b9533e559ffe18f916f41e7ba3423cc984148abc61372bb6a27841cfee9df"
+}
